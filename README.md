@@ -5,7 +5,8 @@
 
 # 👋 Hi, I'm Dame Abera
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dame-Abera&theme=flat&no-frame=true&column=7&margin-w=15&background=ffffff)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=dame-ab&theme=flat&no-frame=true&column=7&margin-w=15&background=ffffff)
+
 
 🎓 Software Engineer at AAIT (Addis Ababa University)  
 💻Full Stack Developer with a focus on clean architecture and elegant code  
